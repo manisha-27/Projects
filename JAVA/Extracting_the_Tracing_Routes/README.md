@@ -13,7 +13,7 @@ But 1st let's have a quick start:
 ## Quick Start
 ### Clone this repository
 ``` 
-git clone https://github.com/abhijeet007rocks8/Dev-Scripts.git
+git clone https://github.com/manisha-27/Projects.git
 ```
 
 ### Change Directory
@@ -21,8 +21,7 @@ git clone https://github.com/abhijeet007rocks8/Dev-Scripts.git
 cd Java
 ```
 ```
-cd Extracting the Tracking Routes
-
+cd Extracting_the_Tracing_Routes
 ```
 
 ### Run the application
