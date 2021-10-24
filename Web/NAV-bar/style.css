@@ -29,7 +29,7 @@
 }
 
 .navig a.active:hover{      /* applies the changes to the a element which being a class as well as when it is hovwered and a belongs to navig class */
-    background-color: rgb(199, 140, 73);
+    background-color: rgb(109, 140, 73);
     color: rgb(255, 255, 255);
 }
 
