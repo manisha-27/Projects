@@ -1,0 +1,33 @@
+*{
+    margin: 0;      /* sets the top and bottom marhin of body to zero */
+}
+
+.navig{
+    overflow: hidden;     /* color: rgb(235, 0, 0); */
+    background-color: rgb(238, 89, 78);
+}
+
+.navig div{
+    float: left;         /* color: rgb(235, 0, 0); */
+    color: aliceblue;
+    text-align: center;
+}
+
+.navig a{                 /* applies the changes to the a element when a belongs to navig class */
+    padding: 16px 20px;
+    /* margin: 6px; */      /* if margin added then another coloured block will be shown 1st for the navig class then for the navig a.active class  */
+    display: block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size:large;
+}
+
+.navig a.active{             /* applies the changes to the a element when active belong to a element and a belongs to navig class */
+    background-color: brown;
+    color: rgb(255, 255, 255);
+}
+
+.navig a:hover{              /* applies the changes to the a element when a belongs to navig class also only when one hovers over a element */
+    background-color: burlywood;
+}
